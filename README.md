@@ -33,4 +33,5 @@ Proje, en iyi yazılım pratiklerini takip etmek amacıyla iki ana dosyaya ayrı
 
 
 
+--------------------------------------------------------------------------------------------
 * bu proje eğitim amaclı geliştirilmiştir *
