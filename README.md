@@ -30,21 +30,7 @@ Proje, en iyi yazılım pratiklerini takip etmek amacıyla iki ana dosyaya ayrı
 *   Yerleşik Kütüphaneler: `tkinter`, `datetime`, `collections`, `uuid`.
 *   Önerilen Yazı Tipleri (Opsiyonel): `Orbitron`, `Share Tech Mono` (Yüklü değilse sistem otomatik olarak alternatif yazı tiplerine geçer).
 
-## 💻 Çalıştırma
 
-Uygulamayı başlatmak için GUI dosyasını çalıştırmanız yeterlidir:
 
-```bash
-python fitness_gui.py
-```
 
-## 📈 المنطق الحسابي
-
-*   **BMI:** يتم حسابه بتقسيم الوزن على مربع الطول بالمتر.
-*   **السعرات الحرارية:** `MET * الوزن (كجم) * الوقت (ساعة) * معامل الجولات`.
-    *   *ملاحظة: كل جولة إضافية بعد الجولة الأولى تزيد من كفاءة حرق السعرات بنسبة 10%.*
-
----
-**ملاحظة:** تم تصميم هذا النظام كنموذج تعليمي واحترافي يجمع بين تقنيات البرمجة كائنية التوجه (OOP) وتصميم واجهات المستخدم.
-
-تم التطوير بواسطة نظام 
+* bu proje eğitim amaclı geliştirilmiştir *
